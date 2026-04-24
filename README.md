@@ -21,8 +21,7 @@ I am a Computer Science and Engineering student 👨‍💻, driven by curiosity
 ---
 [![](https://komarev.com/ghpvc/?username=Skit-025&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#Thankyou for visiting my Profile
-github-contribution-grid-snake-dark.svg
+#Thankyou for visiting my Profile❤️🤖
 <p align="center">
 <img src="https://github.com/Skit-025/Skit-025/blob/main/github-contribution-grid-snake-dark.svg">
 </p>
