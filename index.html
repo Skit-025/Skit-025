@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portfolio</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Syncopate:wght@700&family=JetBrains+Mono&family=Space+Grotesk&display=swap" rel="stylesheet">
+
+<style>
+body{
+    margin:0;
+    background:black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+#ethereal-container{
+    width:950px;
+    height:650px;
+    position:relative;
+    overflow:hidden;
+    border-radius:12px;
+    box-shadow:0 0 50px rgba(0,255,85,0.2);
+}
+
+canvas{
+    position:absolute;
+    width:100%;
+    height:100%;
+}
+
+.data-layer{
+    position:relative;
+    z-index:10;
+    text-align:center;
+    color:white;
+    margin-top:300px;
+}
+
+.title-name{
+    font-family:'Syncopate';
+    letter-spacing:5px;
+}
+
+.ethereal-type{
+    color:#00ff55;
+}
+
+.ethereal-cursor{
+    width:8px;
+    height:14px;
+    background:#00ff55;
+    display:inline-block;
+    animation:blink 1s infinite;
+}
+
+@keyframes blink{
+    50%{opacity:0;}
+}
+</style>
+</head>
+
+<body>
+
+<div id="ethereal-container">
+    <canvas id="c"></canvas>
+
+    <div class="data-layer">
+        <h1 class="title-name">Aditya Prasad Barik</h1>
+        <div class="ethereal-type">
+            <span id="target"></span>
+            <span class="ethereal-cursor"></span>
+        </div>
+    </div>
+</div>
+
+<script>
+const canvas = document.getElementById("c");
+const ctx = canvas.getContext("2d");
+
+let w,h,cx,cy;
+
+function resize(){
+    w = canvas.width = 950;
+    h = canvas.height = 650;
+    cx = w/2;
+    cy = h/2;
+}
+resize();
+
+/* ---------- OPTIMIZED STARFIELD ---------- */
+const stars = new Float32Array(800*3);
+for(let i=0;i<stars.length;i+=3){
+    stars[i] = (Math.random()-0.5)*2000;
+    stars[i+1] = (Math.random()-0.5)*2000;
+    stars[i+2] = Math.random()*2000;
+}
+
+/* ---------- GLOBE GRID (PRECOMPUTED) ---------- */
+const globe = [];
+const R = 200;
+
+for(let lat=-Math.PI/2; lat<=Math.PI/2; lat+=Math.PI/10){
+    for(let lon=0; lon<Math.PI*2; lon+=Math.PI/10){
+        globe.push([
+            R*Math.cos(lat)*Math.cos(lon),
+            R*Math.sin(lat),
+            R*Math.cos(lat)*Math.sin(lon)
+        ]);
+    }
+}
+
+/* ---------- ROCKETS ---------- */
+const rockets = [
+    {a:0,d:260,s:0.02},
+    {a:1.5,d:300,s:-0.018},
+    {a:3.1,d:280,s:0.015}
+];
+
+/* ---------- PROFILE IMAGE ---------- */
+const img = new Image();
+img.src = "profile.jpeg";
+
+/* ---------- MAIN LOOP ---------- */
+let t=0;
+
+function render(){
+    ctx.fillStyle="black";
+    ctx.fillRect(0,0,w,h);
+
+    t+=0.02;
+
+    const fov=400, dist=600;
+
+    /* --- STARS --- */
+    for(let i=0;i<stars.length;i+=3){
+        stars[i+2]-=4;
+        if(stars[i+2]<=0) stars[i+2]=2000;
+
+        let scale = fov/(dist+stars[i+2]);
+        let x = stars[i]*scale+cx;
+        let y = stars[i+1]*scale+cy;
+
+        ctx.fillRect(x,y,1.5,1.5);
+    }
+
+    /* --- GLOBE --- */
+    ctx.fillStyle="rgba(0,255,85,0.7)";
+    for(let i=0;i<globe.length;i++){
+        let [x,y,z] = globe[i];
+
+        // rotate Y
+        let rx = x*Math.cos(t) - z*Math.sin(t);
+        let rz = x*Math.sin(t) + z*Math.cos(t);
+
+        let scale = fov/(dist+rz);
+        let px = rx*scale + cx;
+        let py = y*scale + cy;
+
+        ctx.fillRect(px,py,1.5,1.5);
+    }
+
+    /* --- ROCKETS --- */
+    rockets.forEach(r=>{
+        r.a += r.s;
+
+        let x = Math.cos(r.a)*r.d;
+        let z = Math.sin(r.a)*r.d;
+
+        let scale = fov/(dist+z);
+        let px = x*scale + cx;
+        let py = cy;
+
+        ctx.fillStyle="#00ff55";
+        ctx.beginPath();
+        ctx.arc(px,py,3,0,Math.PI*2);
+        ctx.fill();
+    });
+
+    /* --- PROFILE CENTER --- */
+    if(img.complete){
+        ctx.save();
+        ctx.beginPath();
+        ctx.arc(cx,cy,80,0,Math.PI*2);
+        ctx.clip();
+        ctx.drawImage(img,cx-80,cy-80,160,160);
+        ctx.restore();
+    }
+
+    requestAnimationFrame(render);
+}
+render();
+
+/* ---------- TYPE EFFECT ---------- */
+const lines = ["AI/ML ENGINEER","PYTHON DEV","BUILDING FUTURE"];
+let li=0,ci=0;
+
+function type(){
+    const el=document.getElementById("target");
+
+    if(li>=lines.length){li=0;ci=0;}
+
+    el.textContent = lines[li].substring(0,ci);
+    ci++;
+
+    if(ci>lines[li].length){
+        li++;ci=0;
+        setTimeout(type,1000);
+    }else{
+        setTimeout(type,40);
+    }
+}
+type();
+
+</script>
+
+</body>
+</html>
