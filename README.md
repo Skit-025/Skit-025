@@ -2,7 +2,7 @@
   <img src="profile.jpeg" width="400" />
 </p>
 
-#------------------------------------------------------------------💫 About Me ---------------------------------------------------------------------#
+#------------------------------------------------------------------💫 About Me ------------------------------------------------------------------#
 I am a Computer Science and Engineering student 👨‍💻, driven by curiosity and a passion for coding 💡. As a Python developer 🐍 and AI/ML Engineer 🤖, I am constantly exploring new ways to apply technology to real-world problems 🌍. Currently, I am strengthening my foundation in Data Structures and Algorithms 📊 to refine my problem-solving skills.<br><br>For me, coding is more than just a skill—it’s my passion steadily evolving into a profession 🚀. I focus on giving practical solutions to the world by my projects🛠️ through consistent implementation, experimentation, and refinement 🔄. My mindset is shaped by continuous learning 📈, adaptability, and the drive to improve with every challenge.<br><br>I believe in learning and growing together 🤝, and I am always open to collaboration, knowledge-sharing, and pushing boundaries to create impactful innovations ✨.
 
 
