@@ -1,8 +1,10 @@
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░  ADITYA PRASAD BARIK — GITHUB PROFILE  ░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
 
 <!-- ──────────────────────────  HERO BANNER  ────────────────────────── -->
 
@@ -26,9 +28,13 @@
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-6366f1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/skit025)
 
-<br/><br/>
+<br/>
+<br/>
 
 </div>
+<p align="center">
+  <img src="profile.jpeg" width="500" />
+</p>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 <!--  § 01 — ABOUT ME                                                        -->
