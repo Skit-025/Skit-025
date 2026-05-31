@@ -1,29 +1,420 @@
-<p align="center">
-  <img src="profile.jpeg" width="400" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░  ADITYA PRASAD BARIK — GITHUB PROFILE  ░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-#------------------------------------------------------------------💫 About Me ------------------------------------------------------------------#
-I am a Computer Science and Engineering student 👨‍💻, driven by curiosity and a passion for coding 💡. As a Python developer 🐍 and AI/ML Engineer 🤖, I am constantly exploring new ways to apply technology to real-world problems 🌍. Currently, I am strengthening my foundation in Data Structures and Algorithms 📊 to refine my problem-solving skills.<br><br>For me, coding is more than just a skill—it’s my passion steadily evolving into a profession 🚀. I focus on giving practical solutions to the world by my projects🛠️ through consistent implementation, experimentation, and refinement 🔄. My mindset is shaped by continuous learning 📈, adaptability, and the drive to improve with every challenge.<br><br>I believe in learning and growing together 🤝, and I am always open to collaboration, knowledge-sharing, and pushing boundaries to create impactful innovations ✨.
+<div align="center">
 
+<!-- ──────────────────────────  HERO BANNER  ────────────────────────── -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skit025) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-prasad-barik-838849378?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codesheritage@gmail.com) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:000000&height=200&section=header&text=ADITYA%20PRASAD%20BARIK&fontSize=52&fontColor=a78bfa&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20CS%20Engineer&descSize=17&descAlignY=58&descColor=64748b&animation=fadeIn" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Skit-025&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Skit-025&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Skit-025&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<!-- ──────────────────────  ANIMATED TYPING  ──────────────────────── -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Skit-025&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Skit-025&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&width=700&lines=Building+intelligent+systems+from+first+principles.;Python+%7C+AI%2FML+%7C+FastAPI+%7C+Deep+Learning;Turning+curiosity+into+production-grade+solutions.;Open+to+collaborate+%E2%80%94+let%27s+build+something+remarkable.)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ──────────────────────  QUICK BADGE ROW  ──────────────────────── -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=Skit-025&style=for-the-badge&color=4f46e5&labelColor=0d0d0d&label=PROFILE+VIEWS)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/aditya-prasad-barik-838849378)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:codesheritage@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-6366f1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/skit025)
+
+<br/><br/>
+
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--  § 01 — ABOUT ME                                                        -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0a0a2e&height=2&section=header" width="100%"/>
+
+<table width="100%" border="0">
+<tr>
+<td width="58%" valign="top">
+
+### 〔 01 〕 About Me
+
+```python
+class AdityaPrasadBarik:
+    """
+    CS Engineer · AI/ML Developer · Python Architect
+    """
+
+    name       = "Aditya Prasad Barik"
+    handle     = "Skit-025"
+    role       = "AI/ML Engineer & Python Developer"
+    location   = "India 🇮🇳"
+    education  = "B.Tech — Computer Science & Engineering"
+
+    focus = [
+        "Deep Learning & Neural Architectures",
+        "FastAPI backend systems",
+        "Data Structures & Algorithms",
+        "Open-source collaboration",
+    ]
+
+    philosophy = "Code is craft. Ship with intent."
+
+    def current_mode(self):
+        return "Building · Learning · Iterating 🔁"
+```
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<br/>
+
+**`SYSTEM STATUS`**
+
+| Parameter | Value |
+|:---|:---|
+| 🧠 Currently Learning | DSA + System Design |
+| 🔭 Building | AI-powered applications |
+| 🌱 Growing In | Cloud · MLOps · Architecture |
+| 💬 Ask Me About | Python · AI/ML · FastAPI |
+| ⚡ Fun Fact | I debug at midnight ☕ |
+| 🤝 Open To | Collaborations & Internships |
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--  § 02 — CURRENT MISSION                                                 -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 ---
+
+<div align="center">
+
+### 〔 02 〕 Current Mission
+
+</div>
+
+<br/>
+
+<table width="100%" border="0">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+**`⚙️ LEARNING`**
+
+```
+▸ Advanced DSA Patterns
+▸ System Design Principles
+▸ LLM Fine-tuning
+▸ MLOps Pipelines
+▸ Distributed Systems
+```
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+**`🛠️ BUILDING`**
+
+```
+▸ AI-powered Python tools
+▸ FastAPI microservices
+▸ Computer Vision projects
+▸ Intelligent automation
+▸ Real-world ML systems
+```
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+**`🎯 GOALS`**
+
+```
+▸ Master ML Architecture
+▸ Contribute to OSS
+▸ Land AI/ML role
+▸ Build impactful products
+▸ Grow as an Engineer
+```
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--  § 03 — TECH ARSENAL                                                    -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+---
+
+<div align="center">
+
+### 〔 03 〕 Tech Arsenal
+
+*Categorized. Curated. Battle-tested.*
+
+<br/>
+
+**— LANGUAGES —**
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=4f46e5)
+![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=818cf8)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=6366f1)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=7c3aed)
+![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnu-bash&logoColor=818cf8)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d0d0d?style=for-the-badge&logo=powershell&logoColor=4f46e5)
+
+<br/>
+
+**— AI / ML & DATA SCIENCE —**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=4f46e5)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=818cf8)
+![Keras](https://img.shields.io/badge/Keras-0d0d0d?style=for-the-badge&logo=keras&logoColor=a78bfa)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=6366f1)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=7c3aed)
+![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=818cf8)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=4f46e5)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d0d?style=for-the-badge&logo=matplotlib&logoColor=a78bfa)
+![SciPy](https://img.shields.io/badge/SciPy-0d0d0d?style=for-the-badge&logo=scipy&logoColor=6366f1)
+![CUDA](https://img.shields.io/badge/CUDA-0d0d0d?style=for-the-badge&logo=nvidia&logoColor=818cf8)
+
+<br/>
+
+**— BACKEND & FRAMEWORKS —**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=4f46e5)
+![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask&logoColor=818cf8)
+![Django](https://img.shields.io/badge/Django-0d0d0d?style=for-the-badge&logo=django&logoColor=a78bfa)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d0d0d?style=for-the-badge&logo=socket.io&logoColor=6366f1)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-0d0d0d?style=for-the-badge&logo=apache-tomcat&logoColor=7c3aed)
+![Twilio](https://img.shields.io/badge/Twilio-0d0d0d?style=for-the-badge&logo=twilio&logoColor=818cf8)
+
+<br/>
+
+**— DATABASES —**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=4f46e5)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=818cf8)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=a78bfa)
+
+<br/>
+
+**— CLOUD & DEVOPS —**
+
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazon-aws&logoColor=4f46e5)
+![Azure](https://img.shields.io/badge/Azure-0d0d0d?style=for-the-badge&logo=microsoftazure&logoColor=818cf8)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=a78bfa)
+![Netlify](https://img.shields.io/badge/Netlify-0d0d0d?style=for-the-badge&logo=netlify&logoColor=6366f1)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=7c3aed)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=818cf8)
+![Anaconda](https://img.shields.io/badge/Anaconda-0d0d0d?style=for-the-badge&logo=anaconda&logoColor=4f46e5)
+
+<br/>
+
+**— TOOLS & DESIGN —**
+
+![Canva](https://img.shields.io/badge/Canva-0d0d0d?style=for-the-badge&logo=canva&logoColor=818cf8)
+![Blender](https://img.shields.io/badge/Blender-0d0d0d?style=for-the-badge&logo=blender&logoColor=a78bfa)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-0d0d0d?style=for-the-badge&logo=nvidia&logoColor=4f46e5)
+![AMD](https://img.shields.io/badge/AMD-0d0d0d?style=for-the-badge&logo=amd&logoColor=6366f1)
+![NPM](https://img.shields.io/badge/NPM-0d0d0d?style=for-the-badge&logo=npm&logoColor=7c3aed)
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--  § 04 — LEARNING JOURNEY                                                -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+---
+
+<div align="center">
+
+### 〔 04 〕 Learning Journey
+
+</div>
+
+<br/>
+
+<table width="100%" border="0">
+<tr>
+
+<td width="50%" valign="top">
+
+**`📐 DSA & Problem Solving`**
+```
+Arrays & Strings        ████████████░░  Intermediate
+Linked Lists            █████████░░░░░  Progressing
+Trees & Graphs          ████████░░░░░░  Progressing
+Dynamic Programming     ██████░░░░░░░░  Building Up
+System Design           █████░░░░░░░░░  Exploring
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+**`🤖 AI / ML Depth`**
+```
+Supervised Learning     █████████████░  Solid
+Neural Networks         ████████████░░  Strong
+Computer Vision         ███████████░░░  Strong
+NLP & Transformers      ████████░░░░░░  Growing
+MLOps & Deployment      ██████░░░░░░░░  Learning
+```
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--  § 05 — GITHUB ANALYTICS                                                -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+---
+
+<div align="center">
+
+### 〔 05 〕 GitHub Analytics
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Skit-025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=818cf8&icon_color=4f46e5&text_color=94a3b8&count_private=false"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Skit-025&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=818cf8&text_color=94a3b8"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Skit-025&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=4f46e5&ring=818cf8&fire=a78bfa&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Skit-025&bg_color=0d0d0d&color=818cf8&line=4f46e5&point=a78bfa&area=true&area_color=0a0a2e&hide_border=true&custom_title=Contribution%20Activity"/>
+
+<br/><br/>
+
+<!-- Trophies -->
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Skit-025&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+
+<br/><br/>
+
+<!-- Top Contributed Repos -->
+<img width="60%" src="https://github-contributor-stats.vercel.app/api?username=Skit-025&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d0d0d&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--  § 06 — DEVELOPER PHILOSOPHY                                            -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+---
+
+<div align="center">
+
+### 〔 06 〕 Developer Philosophy
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   "First, solve the problem. Then, write the code."                  ║
+║                                                   — John Johnson     ║
+║                                                                      ║
+║   "The best way to predict the future is to invent it."              ║
+║                                                   — Alan Kay         ║
+║                                                                      ║
+║   "Simplicity is the soul of efficiency."                            ║
+║                                                   — Austin Freeman   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+*Continuous learning. Consistent shipping. Compound growth.*
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--  § 07 — CONNECT                                                         -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+---
+
+<div align="center">
+
+### 〔 07 〕 Connect With Me
+
+*Open to collaborations, internships, and conversations worth having.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Prasad%20Barik-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/aditya-prasad-barik-838849378)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-codesheritage%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:codesheritage@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%40skit025-6366f1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/skit025)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Skit--025-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Skit-025)
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--  § 08 — FOOTER                                                          -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+
+---
+
+<div align="center">
+
+<!-- Snake animation -->
+<img width="100%" src="https://github.com/Skit-025/Skit-025/blob/output/github-snake-dark.svg"/>
+
+<br/>
+
+```
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+            A D I T Y A   P R A S A D   B A R I K
+              AI Engineer · Builder · Perpetual Learner
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+```
+
+*Thank you for visiting. Let's build something remarkable together.* ❤️
+
+<br/>
+
 [![](https://visitcountpro.netlify.app/api?id=Skit-025&pretty=true)](https://visitcount.itsvg.in)
 
-#Thankyou for visiting my Profile❤️🤖
-![snake gif](https://github.com/Skit-025/Skit-025/blob/output/github-snake-dark.svg)
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░  END OF README  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
