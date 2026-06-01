@@ -214,21 +214,23 @@ class AdityaPrasadBarik:
 
 <!-- ═══════════  GITHUB ANALYTICS  ═══════════ -->
 
+<!-- ═══════════  GITHUB ANALYTICS  ═══════════ -->
+
 <div align="center">
 
 ### 📊 GitHub Analytics
 
-<br/>
-
-<img height="175em" src="https://github-readme-stats.shion.dev/api?username=Skit-025&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Skit-025&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=C4B5FD"/>
+<img src="https://img.shields.io/badge/skit--025%20%2F%20github--analytics-■%20■%20■-0D0D0D?style=flat&labelColor=0D0D0D&color=7C3AED&logo=github&logoColor=A78BFA"/>
 
 <br/><br/>
 
-<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skit-025&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skit-025&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=C4B5FD&langs_count=8"/>
 
-<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skit-025&theme=2077"/>
+<br/>
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skit-025&theme=2077"/>
 
 <br/>
 
@@ -238,21 +240,13 @@ class AdityaPrasadBarik:
 &nbsp;
 <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Skit-025&theme=2077&utcOffset=5.5"/>
 
-</div>
-
-<br/><br/>
+<br/>
 
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skit-025&theme=tokyonight"/>
 &nbsp;
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skit-025&theme=tokyonight"/>
 
-<br/>
-
-<br/>
-
----
-
-<br/>
+</div>
 
 <!-- ═══════════  PHILOSOPHY  ═══════════ -->
 
