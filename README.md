@@ -234,11 +234,15 @@ class AdityaPrasadBarik:
 
 <br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skit-025&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=C4B5FD&langs_count=8" />
+<!-- Languages by Repo -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skit-025&theme=tokyonight" />
+
+<!-- Languages by Commit (better for showing C++) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skit-025&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Skit-025&theme=tokyonight&hide_border=true&background=0D0D0D&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD" />
+<img src="https://streak-stats.demolab.com?user=Skit-025&theme=tokyonight&hide_border=true&background=0D0D0D&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD" />
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skit-025&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=C4B5FD&hide_border=true" />
