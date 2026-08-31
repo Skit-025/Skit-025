@@ -291,10 +291,7 @@ WHO'S WRITING THIS & WHY?!
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Skit-025&bg_color=0A0A0A&color=D4D4D4&title_color=FFFFFF&line=F59E0B&point=FBBF24&area=true&area_color=92400E&hide_border=true&radius=14" />
-
-</div>
-
+<img src="https://github.pumbas.net/api/contributions/Skit-025?colour=FB923C&bgColour=0A0A0A&dotColour=FDBA74" width="100%" />
 <br/><br/>
 
 ---
